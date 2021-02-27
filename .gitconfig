@@ -1,10 +1,10 @@
 [user]
-	email = adonyssantoscemas@gmail.com
-	name = Adonys
+	email = difo23@gmail.com
+	name = Lizandro
 [core]
 	editor = code --wait
 [github]
-	user = adonyssantoscemas
+	user = difo23
 [init]
 	defaultBranch = main
 [alias]
